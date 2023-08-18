@@ -1,0 +1,2 @@
+regEx=        this\.sql\.inserttypedata\(";replaceWith=xxxx
+regEx=\n\n\n;replaceWith=\n
